@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "sqli": true,
+    "xss": true,
+    "path_traversal": true,
+    "brute_force": true,
+    "log_injection": true
+  },
+  "activated_at": 1781473601.448725,
+  "timestamp": "2026-06-15T03:17:49.355772"
+}
