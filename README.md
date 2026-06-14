@@ -52,3 +52,5 @@ Block all 5 → flag decrypts → you win.
 
 **Read `docs/CHALLENGE.md` for full details and hints.**
 
+
+Documentation updated.
