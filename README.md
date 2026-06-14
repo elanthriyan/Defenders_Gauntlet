@@ -51,3 +51,4 @@ You implement `DefenseRule` subclasses in `defender/defender.py`.
 Block all 5 → flag decrypts → you win.
 
 **Read `docs/CHALLENGE.md` for full details and hints.**
+
